@@ -1,0 +1,41 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container{
+    width: 28rem;
+    margin: 10rem auto;
+    padding: 1.6rem;
+    background-color: #fff;
+    border-radius: 1.4rem;
+}
+
+.img-qr{
+    border-radius: 1rem;
+    width:100%;
+}
+
+.text-content{
+    text-align: center;
+    padding: 1rem;
+}
+
+.title{
+    line-height: 2.4rem;
+    font-weight: 700;
+    font-size: 2rem;
+    margin: 1.6rem 0;
+}
+
+.subtitle{
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: hsl(220, 15%, 55%);
+    margin-bottom: 2rem;
+    line-height: 1.6rem;
+}
