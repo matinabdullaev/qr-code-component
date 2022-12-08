@@ -1,7 +1,7 @@
 # Frontend Mentor - Qr-code Component
 
-![image](https://user-images.githubusercontent.com/102714303/199200987-f80f1ab2-0835-4ba9-be64-575e45618a6d.png)
+![image](![qr-code-component](https://user-images.githubusercontent.com/120132330/206566074-7e0e8870-03c8-4b65-bc12-d153a3eda97a.png))
 
-- [Demo](https://nastakalow.github.io/Calculator-App/)
+- [Demo](https://matinabdullaev.github.io/qr-code-component/)
 
 Frontend Mentor challenges help to improve coding skills by building realistic projects. Thanks a lot [Frontend Mentor](https://www.frontendmentor.io). ❤
