@@ -1,6 +1,6 @@
 # Frontend Mentor - Qr-code Component
 
-![image](![qr-code-component](https://user-images.githubusercontent.com/120132330/206566074-7e0e8870-03c8-4b65-bc12-d153a3eda97a.png))
+![image](![qr-code-component](https://user-images.githubusercontent.com/120132330/206566326-5208d681-fb0d-4462-a231-2f7fa134e92b.png))
 
 - [Demo](https://matinabdullaev.github.io/qr-code-component/)
 
